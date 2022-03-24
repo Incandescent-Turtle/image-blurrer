@@ -10,3 +10,6 @@ Increase the value of <code>r</code> on line 27 to make it more blurry.
 ## Blurred Image:  
 ![blurred image](https://user-images.githubusercontent.com/59327500/160025345-1fa00360-19ba-4606-a792-d41d05b4ff3d.jpg)
 
+### Syggestions to Improve Speed
+- add multithreading
+- average color mustnt be completely re-calculated for each photo. Only the pixels that differ need to be re-calculated
