@@ -13,4 +13,4 @@ Increase the value of <code>r</code> on line 27 to make it more blurry.
 ---
 ### Suggestions to Improve Speed
 - add multithreading
-- average color mustnt be completely re-calculated for each photo. Only the pixels that differ need to be re-calculated
+- average color mustnt be completely re-calculated for each pixel. Only the neighbouring pixels that differ need to be re-calculated
